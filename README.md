@@ -7,4 +7,5 @@ The goal of this project is to generate Monet-style images from regular photos. 
 ### 2. Data
 The data for this project consists of two sets of images: regular photos (photo_jpg folder) and monet-style images (monet_jpg folder). Due to space constraints, I did not include all the images in this repo. You can find the entire sets on Kaggle competition page
 
+----
 *The score for this project can only be received after submitting the Notebook to Kaggle competition. Therefore, this Notebook is intended to run in Kaggle, using corresponding input and output folders.*
