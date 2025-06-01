@@ -1,4 +1,4 @@
-# Generating Monet-style images using CycleGAN
+# Generating Monet-style images with CycleGAN
 
 This project is based on a Kaggle competition: [I’m Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started)
 
